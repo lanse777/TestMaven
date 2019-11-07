@@ -2,6 +2,8 @@ package com.lcb.test01;
 
 public class Test01 {
 	public static void main(String[] args) {
-		System.out.println("right");
+		System.out.println("hello");
+		System.out.println("rightaaa");
+		System.out.println("hello");
 	}
 }
