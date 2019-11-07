@@ -5,5 +5,7 @@ public class Test01 {
 		System.out.println("helloaaa");
 		System.out.println("rightaaa");
 		System.out.println("helloaaabbb");
+		System.out.println("leftaaa");
+		System.out.println("hot_fix");
 	}
 }
